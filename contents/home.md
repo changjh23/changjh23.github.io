@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![changjh23](https://img.shields.io/badge/Github-changjh23-brightgreen?style=flat&logo=github&logoColor=%23ffa500)](https://github.com/changjh23)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Doctor's Degree in Nuclear Science, at Institute of Nuclear and New Energy Technology, Tsinghua University, China.
 
 #### Email
-sli[at]cumt.edu.cn
+changjh23@mails.tsinghua.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+D.E., Institute of Nuclear and New Energy Technology, Tsinghua University, 2020—2025.\
+B.E., School of Nuclear Science and Technology, Lanzhou University, 2016—2020.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Radiation imaging, CT image reconstruction, Image processing, Radiation detector.
 
